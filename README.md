@@ -1,2 +1,1 @@
-# -
-颜色匹配算法
+Color similarity calculation method 
